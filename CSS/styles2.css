@@ -11,6 +11,7 @@ p{
     padding-top: 25px;
 }
 
+
 h1{
 
     font-family: 'Sacramento', cursive;
@@ -140,6 +141,10 @@ a{
 
 .contact-me{
     margin-bottom: 50px;
+}
+
+a:hover{
+    color: #E3B7A0;
 }
   
 
